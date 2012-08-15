@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">digitalclick</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="buy">Оплатить</string>
+    <string name="cancel">Отменить</string>
+    <string name="part1">Товар №</string>
+    <string name="part2">Цена:</string>
+    <string name="part3">р.</string>
+    <string name="part4">шт.</string>
+    <string name="inputmes">Введите новое количество</string>
+    <string name="maxamount">Общее количество не дожно превышать 5 штук и должно быть больше 0 штук</string>
+    <string name="errinput">Ошибка ввода количества</string>
+ <string name="errurl">Плохой url</string>
+     <string name="errio">Ошибка соединения</string>
+     <string name="yourp">Ваша покупка:</string>
+ <string name="с">штук</string>
+ <string name="loading">Загрузка...</string>
+ 
+</resources>
